@@ -1,0 +1,7 @@
+streamlit
+pandas
+qrcode[pil]
+gspread
+google-auth
+opencv-python-headless
+numpy
