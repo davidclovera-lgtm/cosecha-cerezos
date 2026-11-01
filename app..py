@@ -31,7 +31,8 @@ st.markdown(
 TZ = ZoneInfo("America/Santiago")
 KG_POR_BALDE = 5
 HEADERS = ["Fecha/Hora", "Planillero", "Trabajador", "Baldes", "Cajas"]
-workers = [f"TRAB-{i:03d}" for i in range(1, 51)]
+workers = ["Ana", "Carlos", "Luis", "María", "José"]
+planilleros = ["Juan", "Pedro", "Sofía"]
 planilleros = [f"PLAN-{i:03d}" for i in range(1, 6)]
 
 
