@@ -32,7 +32,7 @@ TZ = ZoneInfo("America/Santiago")
 KG_POR_BALDE = 5
 HEADERS = ["Fecha/Hora", "Planillero", "Trabajador", "Baldes", "Cajas"]
 workers = ["Ana", "Carlos", "Luis", "María", "José"]
-planilleros = ["Juan", "Pedro", "Sofía"]
+planilleros = ["Esteban", "Maria", "Marta", "Lolo"]
 
 
 # ---------- Clave de acceso opcional (evita que cualquiera con el link registre) ----------
